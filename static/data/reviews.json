@@ -1,0 +1,35 @@
+[
+    {
+        "rating": "⭐⭐⭐⭐⭐",
+        "text": "This is a scam dont fall for it I lost 500$ to this people I hate em just dont use this trust me also this is a joke to testing this is legit also when pay me ik I am spending thime for this I hope u will resepct that",
+        "person": {
+            "name": "John Doe",
+            "image": "https://cdn.discordapp.com/avatars/240338488040357888/1231a66da3d42f9218d5e46519c26730?size=1024"
+        }
+    },
+    {
+        "rating": "⭐⭐⭐",
+        "text": "Not bad, but could be better. Delivery was late but product quality was okay.",
+        "person": {
+            "name": "Jane Smith",
+            "image": "https://cdn.discordapp.com/avatars/1242500865311379456/e7310ddcc7d38128e73fcb0031292907?size=1024"
+        }
+    },
+    {
+        "rating":"⭐⭐⭐",
+        "text":"@Monstererza helped me do 443€ from PayPal to crypto, thanks",
+        "person":{
+            "name":"robin_rt",
+            "image":"https://cdn.discordapp.com/avatars/1057605277135941684/2f96958db7058f3d1566325588b59aa9?size=1024"
+        }
+    },
+    {
+        "rating":"⭐⭐⭐",
+        "text":"@Monstererza helped me do 443€ from PayPal to crypto, thanks",
+        "person":{
+            "name":"robin_rt",
+            "image":"https://cdn.discordapp.com/avatars/1057605277135941684/2f96958db7058f3d1566325588b59aa9?size=1024"
+        }
+    }
+
+]
