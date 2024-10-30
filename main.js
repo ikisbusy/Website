@@ -1,7 +1,7 @@
 
 
 async function fetchReviews() {
-    const response = await fetch('/static/data/reviews.json'); // Path to your JSON file
+    const response = await fetch('./static/data/reviews.json'); // Path to your JSON file
     return response.json(); // Parse and return JSON data
 }
 
