@@ -1,0 +1,83 @@
+Updated : 2/19/2025
+
+## Acceptance of Terms
+By accessing or using any services provided by Blockchainbazaar, you agree to comply with and be bound by these Terms of Service and all related policies, guidelines, and regulations. If you disagree with any part of these terms, please refrain from using our services.
+Blockchainbazaar reserves the right to modify these Terms of Service at any time. In the event of significant updates, we will notify you via the contact information provided or through our official channels, such as our Discord channel. Continued use of our services following any changes to the Terms of Service constitutes acceptance of those changes.
+
+# Crypto Swap
+Blockchainbazaar provides a cryptocurrency swap service, enabling users to trade between various digital assets.
+All transactions conducted on Blockchainbazaar’s platform are final once confirmed, and no refunds or reversals are available after a transaction is completed.
+We are not liable for any transaction errors resulting from incorrect input by the user, such as wrong wallet addresses or amounts.
+
+# Crypto-to-Fiat Conversion
+Blockchainbazaar facilitates the conversion of cryptocurrency into fiat currency, subject to availability and market conditions.
+Processing times may vary depending on external factors, including market liquidity, regulatory considerations, and network congestion.
+We reserve the right to adjust or limit the availability of this service without prior notice in response to regulatory or technical conditions.
+
+# Crypto Bridge
+Our platform allows for cross-chain asset bridging, enabling users to transfer assets across different blockchain networks.
+Cross-chain transfers may involve significant delays or require additional steps; Blockchainbazaar is not liable for delays, network failures, or technical difficulties experienced during asset bridging.
+
+# Gas Fee Management
+Blockchainbazaar provides gas fee support to help users manage transaction fees.
+While we strive to provide gas fees that reflect current network conditions, Blockchainbazaar cannot guarantee precise fee amounts or timing of transactions due to fluctuating network conditions.
+
+## User Responsibilities
+
+# Account Security
+You are solely responsible for safeguarding your account credentials and ensuring the security of your account.
+Any activity carried out under your account is your responsibility, including unauthorized access if caused by your failure to secure account information.
+Blockchainbazaar recommends enabling two-factor authentication (2FA) and using complex, unique passwords to secure your account.
+
+# Compliance with Laws
+You agree to adhere to all applicable local, national, and international laws, regulations, and statutes when using Blockchainbazaar.
+Any illegal or prohibited use of Blockchainbazaar’s services, including but not limited to money laundering, financing of terrorism, fraud, or other illicit activities, will result in immediate termination of your account and may lead to legal action.
+Blockchainbazaar cooperates with law enforcement authorities as required by law and may disclose any information as necessary to fulfill legal obligations.
+
+# Accuracy of Information
+You agree to provide accurate, complete, and current information when registering, verifying your account, or performing any transactions.
+You acknowledge that providing false or misleading information may result in account suspension or termination.
+
+## Risk Acknowledgment and Disclaimers
+
+# Market Risks
+You understand and accept the market risks associated with trading and holding cryptocurrencies. Cryptocurrency prices are highly volatile, and your investments are subject to substantial risk.
+Blockchainbazaar is not responsible for any financial losses arising from fluctuations in cryptocurrency prices or the outcomes of trades on the platform.
+
+# Technology and Security Risks
+Due to the nature of blockchain technology, Blockchainbazaar’s platform may be susceptible to technical issues, including bugs, system failures, network disruptions, or cyberattacks.
+Blockchainbazaar is not liable for any losses resulting from technical difficulties, errors in service, unauthorized access, or other technology-related risks.
+We make no guarantees regarding the uninterrupted or error-free operation of the platform and reserve the right to perform maintenance as necessary, which may disrupt service.
+
+# Regulatory Risks
+The regulatory environment for cryptocurrencies is subject to frequent changes. New laws or regulations may affect Blockchainbazaar’s operations, and certain services may become unavailable or restricted.
+Blockchainbazaar will make reasonable efforts to comply with applicable regulatory changes, but we are not responsible for losses resulting from legal or regulatory developments impacting the cryptocurrency market.
+
+# No Financial or Investment Advice
+Blockchainbazaar does not provide any financial, investment, tax, or legal advice. Our platform is solely for the facilitation of cryptocurrency transactions and is not an advisory service.
+Users are encouraged to perform their own research, seek professional financial advice, and consider their individual circumstances before engaging in any cryptocurrency transactions.
+
+# Limitation of Liability
+To the fullest extent permitted by law, Blockchainbazaar shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from your use or inability to use our services, including but not limited to losses arising from market fluctuations, transaction errors, unauthorized account access, or technological failures.
+Blockchainbazaar’s liability to you, if any, shall not exceed the amount of fees you paid to Blockchainbazaar in the three months preceding the event giving rise to such liability.
+
+# Privacy and Data Security
+Blockchainbazaar respects your privacy and is committed to protecting your personal data. We will not share, sell, or disclose your personal information without your consent, except as required by law.
+We use industry-standard practices to protect your data, but due to the nature of online services, we cannot guarantee absolute data security. By using our platform, you acknowledge and accept these limitations.
+
+# Account Suspension and Termination
+Blockchainbazaar reserves the right to suspend or terminate your account at any time if you are found to be in violation of these Terms of Service, engaged in prohibited activities, or fail to comply with any regulatory requirements.
+In the event of account suspension or termination, any remaining balances held in your account may be subject to review and may require additional verification for withdrawal.
+
+# Changes to Terms of Service
+Blockchainbazaar reserves the right to modify, update, or otherwise change these Terms of Service at any time. Major updates will be communicated through our Discord channel or other official channels.
+By continuing to use our platform following any modifications, you agree to be bound by the revised Terms of Service.
+
+# Dispute Resolution and Governing Law
+Any disputes arising from or relating to these Terms of Service shall be governed by the laws of the jurisdiction in which Blockchainbazaar operates, without regard to conflict of laws principles.
+Users agree to attempt informal resolution of any disputes by contacting Blockchainbazaar’s support team. If informal resolution fails, disputes may be resolved through binding arbitration in the designated jurisdiction.
+
+# Contact Information
+For questions, concerns, or further clarification regarding these Terms of Service, please reach out to our support team through Discord or any other official support channel.
+
+Thank you for choosing Blockchainbazaar. We are committed to providing you with a secure and reliable cryptocurrency transaction platform.
